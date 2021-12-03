@@ -1,0 +1,6 @@
+print('length of a rectangle')
+lengtgh=int(print())
+print('breath of a rectangle')
+breath=int(input())
+print('area of rectangle')
+area=int(input())

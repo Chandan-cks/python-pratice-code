@@ -1,0 +1,17 @@
+c=[1,"chandan",3.15,"sahoo",23]
+print(type(c))
+print(c)
+print(c[3:])
+print(c[0:4])
+print(c*3)
+print(c+c)
+print(type(c[2]))
+k=[1,2,3,4,]
+s=["c","a","xy"]
+print(c+k+s)
+c[1]="krishna"
+print(c)
+print(c[4:5])
+print(c[3:2])
+c.append(40)
+print(c)
